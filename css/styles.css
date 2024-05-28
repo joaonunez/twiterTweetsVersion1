@@ -1,0 +1,9 @@
+@import url('subStyles.css/contenedorPrincipal.css');
+@import url('subStyles.css/headerTweets.css');
+@import url('subStyles.css/tweet.css');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}

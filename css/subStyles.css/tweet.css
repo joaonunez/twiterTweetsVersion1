@@ -1,0 +1,28 @@
+.tweet{
+
+    height: 150px;
+    display: flex;
+    align-items: start;
+    border-bottom: 2px rgb(207, 207, 207) solid;
+    border-left: 2px rgb(207, 207, 207) solid;
+    border-right: 2px rgb(207, 207, 207) solid;
+}
+.toLeftTweet{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.titleTweet{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.toLeftTweetInternal *{
+    display: inline;
+    align-items: center;
+}
+.toLeftTweetInternal span{
+    color: gray;
+    font-size: 12px;
+}

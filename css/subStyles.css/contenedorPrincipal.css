@@ -1,0 +1,11 @@
+.contenedorPrincipal{
+    margin: auto;
+    text-align: center;
+    width: 700px;
+    height: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
